@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+
+.link-header{
+    margin-right:  margin-right: 24px;
+    matext-decoration:none;
+    margin-left: 30x;
+    border-radius: 10px;
+    border : 3px solid grey;
+    background-image: image-gradient(black , white);
+    margin-top: 20px;
+}    
+.link-header:hover{
+    background-image:  linear-gradient(white,black);}
+    .link-header:hover{
+        background-image:line-gradient(black,white) ;
+    }
+    .link-nav1{
+        margin-left: 50px;
+        margin-right: 50px;
+        color: red;
+    }
+    .link-nav2{
+        margin-left: 100px;
+        margin-right: 50px;
+        color: red;
+    }
+    .link-nav1:hover{color: red;
+    border: 3px solid red;
+    padding: 5px 5px 5px 5px;}
+    .link-nav2:hover:hover{color: red;
+    border: 3px solid red;
+    padding: 5px 5xp 5px 5px;}
+    nav{margin-top: 15px;}
+    h1{margin-left: 150px;
+    width: 290px;
+    font-size: 60px;
+    color: blue;
+    box-shadow: 10px 2px 10px 10px white;
+    text-align: center;
+    }
+    
